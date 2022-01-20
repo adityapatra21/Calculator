@@ -38,6 +38,7 @@ class Calculator {
       // multiplication
       case '*':
         //by Sai
+	return(number1*number2);
         break;
 
       // division
