@@ -32,13 +32,13 @@ class Calculator {
 
       // subtraction
       case '-':
-        //by Snehadeep
+        result=(number1-number2);
         break;
 
       // multiplication
       case '*':
         //by Sai
-	return(number1*number2);
+	result=(number1*number2);
         break;
 
       // division
