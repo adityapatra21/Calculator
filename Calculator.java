@@ -28,6 +28,7 @@ class Calculator {
       // addition
       case '+':
         //by Saurabh
+	result=number1 + number2;
         break;
 
       // subtraction
