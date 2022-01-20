@@ -18,6 +18,8 @@ git clone https://github.com/adityapatra21/Calculator.git
 <br/>
 *make the changes for your respective operators*
 <br/>
+cd Calculator
+<br/>
 git add .
 <br/>
 git commit -m "Addition/subtraction/multiplication/division operation added"
