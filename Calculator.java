@@ -33,6 +33,7 @@ class Calculator {
 
       // subtraction
       case '-':
+	//by Snehadeep
         result=(number1-number2);
         break;
 
@@ -45,6 +46,7 @@ class Calculator {
       // division
       case '/':
         //by Naresh
+	result=(number1/number2);
         break;
 
       default:
